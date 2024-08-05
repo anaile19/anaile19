@@ -31,4 +31,5 @@ Cada proyecto es una oportunidad para aprender y crecer. Creo en la narrativa de
 * [LinkedIn](https://www.linkedin.com/in/salabori/) 
 * [GitHub](https://github.com/anaile19/Portafolio) 
 
-¡Espero que disfrutes explorando mi trabajo y descubriendo cómo los datos pueden contar historias impactantes!
+¡Espero que disfrutes explorando mi trabajo y descubriendo cómo los datos pueden contar historias impactantes! 
+
