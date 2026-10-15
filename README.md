@@ -37,7 +37,7 @@ Estadística con más de 13 años de experiencia en análisis de datos y estadí
 | Proyecto | Herramientas | Qué resuelve |
 |---|---|---|
 | [Segmentación de clientes bancarios](https://github.com/anaile19/Portafolio/tree/main/proyectos/01-segmentacion-clientes) | Python, K-Means, PCA | Perfiles de consumo con tarjeta de crédito y débito en 21 rubros comerciales |
-| [Predicción de fuga de empleados](https://github.com/anaile19/Portafolio/tree/main/proyectos/02-fuga-empleados) | Python, árbol de decisión, Tableau | Costo estimado de la rotación y dashboard de empleados en riesgo |
+| [Predicción de fuga de empleados](https://github.com/anaile19/Portafolio/tree/main/proyectos/02-fuga-empleados) | Python, regresión logística, Tableau | Costo estimado de la rotación y dashboard de empleados en riesgo |
 
 Todos los proyectos en [Portafolio](https://github.com/anaile19/Portafolio).
 
