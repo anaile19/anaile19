@@ -8,16 +8,16 @@ Estadística con más de 13 años de experiencia en análisis de datos y estadí
 
 ## Experiencia destacada
 
-- **Ministerio de Educación del Perú (MINEDU)** · Analista de Datos · 2024–2025
+- **Ministerio de Educación del Perú (MINEDU)** · Analista de Datos · 2024–2025<br>
   Dashboards en Power BI para monitorear los KPIs de la Dirección de Educación Primaria, usados por más de 20 usuarios a nivel central y regional. Procesamiento y validación de más de 3 millones de registros con Python (Pandas) y reporting automatizado con un desfase de actualización de 1 a 2 días.
 
-- **Basel Institute on Governance** · Consultora de Análisis de Datos · 2022–2023
+- **Basel Institute on Governance** · Consultora de Análisis de Datos · 2022–2023<br>
   Tableros de seguimiento en Looker Studio y automatizaciones con Google Apps Script que mejoraron en 85% la eficiencia del procesamiento de datos.
 
-- **Financiera TFC** · Analista de Riesgo de Crédito · 2018–2020
+- **Financiera TFC** · Analista de Riesgo de Crédito · 2018–2020<br>
   Análisis de cosechas por agencia, producto y analista con alertas tempranas de deterioro de cartera, y matriz de migración por agencia. Migración del cálculo de cosechas de Excel a SPSS, con una reducción de 80% en el tiempo de procesamiento.
 
-- **Banco Exterior y Experian (Venezuela)** · 2015–2016
+- **Banco Exterior y Experian (Venezuela)** · 2015–2016<br>
   Análisis del portafolio de tarjetas de crédito y proyecciones estadísticas de cartera con R.
 
 ## Herramientas
