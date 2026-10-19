@@ -8,7 +8,7 @@ Estadística con más de 15 años de experiencia en análisis de datos y estadí
 
 ## Experiencia destacada
 
-- **Ministerio de Educación del Perú (MINEDU)** · Analista de Datos · 2024–2025<br>
+- **Ministerio de Educación del Perú (MINEDU)** · Analista Cuantitativo · 2024–2025<br>
   Dashboards en Power BI para monitorear los KPIs estratégicos de Educación Primaria, usados por más de 20 usuarios en la sede central y en las regiones. Consolidé en una sola herramienta información que llegaba en formatos dispersos y automaticé el reporting con Python, reduciendo el desfase de actualización de 2–3 semanas a 1–2 días. Procesamiento y validación de más de 3 millones de registros con Python (Pandas), SPSS y Stata.
 
 - **Basel Institute on Governance** · Consultora de Análisis de Datos · 2022–2023<br>
