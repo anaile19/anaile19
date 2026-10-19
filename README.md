@@ -1,10 +1,10 @@
 # Eliana Salazar Laborí
 
-**Analista de Datos y BI | Estadística | Power BI · SQL · Python | Riesgo crediticio**
+**Analista de Datos y BI | Estadística | Power BI · Python | Riesgo crediticio**
 
 Lima, Perú · [LinkedIn](https://www.linkedin.com/in/salabori/) · anaile19@gmail.com
 
-Estadística con más de 13 años de experiencia en análisis de datos y estadística aplicada, cerca de 7 de ellos en business intelligence, analítica y riesgo crediticio en los sectores financiero, público y de consultoría. Diseño KPIs, construyo dashboards ejecutivos y automatizo el procesamiento de datos para que los equipos decidan con información confiable y oportuna.
+Estadística con más de 15 años de experiencia en análisis de datos y estadística aplicada, cerca de 7 de ellos en business intelligence, analítica y riesgo crediticio en los sectores financiero, público y de consultoría. Diseño KPIs, construyo dashboards ejecutivos y automatizo el procesamiento de datos para que los equipos decidan con información confiable y oportuna.
 
 ## Experiencia destacada
 
@@ -14,7 +14,7 @@ Estadística con más de 13 años de experiencia en análisis de datos y estadí
 - **Basel Institute on Governance** · Consultora de Análisis de Datos · 2022–2023<br>
   Tableros de seguimiento en Looker Studio y automatizaciones con Google Apps Script que mejoraron en 85% la eficiencia del procesamiento de datos.
 
-- **Financiera TFC** · Analista de Riesgo de Crédito · 2018–2020<br>
+- **Financiera TFC** · Asistente de Gestión y Seguimiento – Riesgo de Crédito · 2018–2020<br>
   Análisis de cosechas por agencia, producto y analista con alertas tempranas de deterioro de cartera, y matriz de migración por agencia. Migración del cálculo de cosechas de Excel a SPSS, con una reducción de 80% en el tiempo de procesamiento.
 
 - **Banco Exterior y Experian (Venezuela)** · 2015–2016<br>
