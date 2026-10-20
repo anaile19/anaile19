@@ -36,6 +36,7 @@ Estadística con más de 15 años de experiencia en análisis de datos y estadí
 
 | Proyecto | Herramientas | Resultado |
 |---|---|---|
+| [Riesgo crediticio de una cartera de préstamos](https://github.com/anaile19/Portafolio/tree/main/proyectos/03-riesgo-crediticio) | Power BI, DAX, Python | Segmentos de mayor incumplimiento por plazo, calificación, motivo y estado |
 | [Segmentación de clientes bancarios](https://github.com/anaile19/Portafolio/tree/main/proyectos/01-segmentacion-clientes) | Python, K-Means | 6 perfiles de consumo a partir de 21,905 clientes y 21 rubros comerciales |
 | [Predicción de fuga de empleados](https://github.com/anaile19/Portafolio/tree/main/proyectos/02-fuga-empleados) | Python, regresión logística, Tableau | ROC-AUC de 0.79 en prueba; costo de rotación estimado en USD 2.72 M; [dashboard](https://public.tableau.com/views/Riesgodefugadeempleados/Dashboard1) |
 
